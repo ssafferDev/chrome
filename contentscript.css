@@ -1,0 +1,14 @@
+#wrap > div.container.main-container > div.content
+    > section.main-page.sec1 > div > div.col-md.n1 {
+    background: red;
+}
+#wrap > div.container.main-container > div.content > section.main-page.sec1
+> div > div.col-md.n1 > div > div.btns > div.state.inRoomEnd {
+    display: none;
+}
+
+
+#header > div.header-inner.tac.with-job.cols5 > div.column.tac.hidden-field
+    > ul > li:nth-child(5) > a {
+
+}
