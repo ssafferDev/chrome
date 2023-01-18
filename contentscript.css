@@ -1,10 +1,15 @@
+
+/*버튼 배경*/
 #wrap > div.container.main-container > div.content
     > section.main-page.sec1 > div > div.col-md.n1 {
-    background: red;
+    /*background: red;*/
 }
+
+
+/*입실버튼*/
 #wrap > div.container.main-container > div.content > section.main-page.sec1
 > div > div.col-md.n1 > div > div.btns > div.state.inRoomEnd {
-    display: none;
+    /*display: none;*/
 }
 
 

@@ -1,5 +1,5 @@
 {
-  "name": "hel",
+  "name": "ssaffer",
   "description": "싸피의 유용한 친구들",
   "version": "1.0",
   "manifest_version": 3,
@@ -31,5 +31,4 @@
         "js" : ["contentscript.js"]
       }
     ]
-
 }
